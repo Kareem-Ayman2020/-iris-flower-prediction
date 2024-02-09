@@ -1,0 +1,7 @@
+this is a web site to prediction iris data. 
+1- open the file path in spyder 
+2- open firstmodelapi.py then server.py then requestmodel.html then responsemodel.html then style.css
+3- run firstmodelapi.py
+4- run server.py
+5- open google and write "http://localhost:1080/"
+6- fill data 'number' and make a prediction.
